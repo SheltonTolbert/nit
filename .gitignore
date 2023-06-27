@@ -1,0 +1,9 @@
+node_modules
+.env
+assets
+assets-test
+
+jsconfig.json
+.vscode
+.DS_STORE
+

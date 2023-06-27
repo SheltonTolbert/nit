@@ -1,0 +1,20 @@
+{
+  "name": "nit",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "sync notion databases with github folders",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "shelton tolbert",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^1.0.1",
+    "@tryfabric/martian": "^1.2.4",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
